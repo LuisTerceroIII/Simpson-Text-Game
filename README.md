@@ -1,2 +1,2 @@
 # SimpsonDialogGame
-Mini game written with python and pygame for a introduction programing class in UNGS
+Mini game written with python and pygame for a introduction programming class in UNGS
